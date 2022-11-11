@@ -1,0 +1,28 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.main{
+    text-align: center;
+}
+
+.signup{
+    font-size: 50px;
+}
+
+.inp{
+    margin-bottom: 10px;
+}
+
+.btn{
+    border: none;
+    margin-top: 20px;
+    font-size: 15px;
+    background-color: rgb(0, 0, 255,0.8);
+    border-radius: 20px;
+    width: 90px;
+}
